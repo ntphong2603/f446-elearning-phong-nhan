@@ -1,0 +1,21 @@
+.udemyContent {
+  color: "#ffffff";
+  /* display: "none"; */
+  position: "absolute";
+  background-color: "#e9d8f4";
+  min-width: 160;
+  z-index: 1;
+}
+.udemy {
+  position: "relative";
+  /* display: "inline-block"; */
+  font-size: 14;
+  margin-left: 24;
+  font-weight: 400;
+  color: "#73726c";
+  cursor: "pointer";
+}
+/* .udemy:hover {
+    color: "#0f7c90";
+    udemyContent { display: "block" };
+  }, */

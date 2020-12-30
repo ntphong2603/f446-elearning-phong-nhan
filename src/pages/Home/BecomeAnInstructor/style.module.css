@@ -1,0 +1,41 @@
+.BecomeAnInstrutor {
+  margin-top: 60px;
+  border-bottom: solid 1px #888;
+  margin-bottom: 30px;
+}
+.BecomeAnInstrutorGroup {
+  background-color: #fbfbf8;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 50px;
+}
+.BecomeAnInstrutorImg {
+  margin-left: 240px;
+  margin-top: -40px;
+}
+.BecomeAnInstrutorDetail {
+  width: 400px;
+  padding: 60px 0;
+  margin-left: 100px;
+}
+.BecomeAnInstrutorTitle {
+  font-weight: 700;
+}
+.BecomeAnInstrutorText {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.BecomeAnInstrutorButton {
+  font-size: 18px;
+  font-weight: 600;
+  padding: 15px;
+  border: 1px solid #0f7c90;
+  border-radius: 5px;
+  background-color: #0f7c90;
+  color: aliceblue;
+  cursor: pointer;
+}
+.BecomeAnInstrutorButton:hover {
+  background-color: #053e5f;
+  border: 1px solid #053e5f;
+}

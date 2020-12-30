@@ -1,0 +1,27 @@
+.contact {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.select {
+  height: 40px;
+  border-radius: 3px;
+  width: 200px;
+  margin-left: 480px;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  padding: 30px 0;
+  justify-content: space-between;
+  margin-right: 60px;
+}
+.logoItem {
+  width: 100px;
+  margin-left: 40px;
+}
+.text {
+  font-size: 12px;
+  color: #888;
+}

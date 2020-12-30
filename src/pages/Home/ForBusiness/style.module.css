@@ -1,0 +1,41 @@
+.forBussiness {
+  margin-top: 90px;
+  border-bottom: 1px solid #888;
+  padding-bottom: 80px;
+}
+.detail {
+  background-color: #003640;
+}
+.detailInfo {
+  color: aliceblue;
+  padding: 80px 0;
+  width: 33%;
+  margin-left: 240px;
+}
+.button {
+  font-size: 18px;
+  font-weight: 600;
+  padding: 15px;
+  border: 1px solid #0f7c90;
+  border-radius: 5px;
+  background-color: #0f7c90;
+  color: aliceblue;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #053e5f;
+  border: 1px solid #053e5f;
+}
+.img {
+  position: absolute;
+  margin-left: 740px;
+  margin-top: -40px;
+}
+.title {
+  font-weight: 700;
+  font-size: 30px;
+}
+.text {
+  font-size: 20px;
+  margin-bottom: 40px;
+}
